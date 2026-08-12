@@ -3,17 +3,17 @@
 </div>
 
 <p align="center">
-  <b>full-stack dev · ai automation tinkerer · makes games on the side</b>
+  <b>full-stack engineer · ai automation · games on the side</b>
 </p>
 
 <p align="center">
-  shipping real things for real people — booking systems, art portfolios,<br>
-  video pipelines, and the occasional creature battler.
+  I build products end to end — front end, API, infra, and the automation around them.<br>
+  Lately: a club booking platform, a CMS-backed artist portfolio, an agent-driven video pipeline.
 </p>
 
 <br>
 
-<p align="center">— featured work —</p>
+<p align="center">— selected work —</p>
 
 <p align="center">
   <a href="https://github.com/Razer256g4/Riverdale"><img src="assets/card-riverdale.svg" alt="Riverdale — court booking software" width="400"></a>
