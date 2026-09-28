@@ -16,12 +16,12 @@
 <p align="center">— selected work —</p>
 
 <p align="center">
-  <a href="https://github.com/Razer256g4/Riverdale"><img src="assets/card-riverdale.svg" alt="Riverdale — court booking software" width="400"></a>
+  <a href="https://riverdaleclub.com"><img src="assets/card-riverdale.svg" alt="Riverdale — court booking software" width="400"></a>
   <a href="https://github.com/Razer256g4/footage-to-video-pipeline"><img src="assets/card-pipeline.svg" alt="footage-to-video-pipeline — AI video editing" width="400"></a>
 </p>
 <p align="center">
   <a href="https://github.com/Razer256g4/MathGame"><img src="assets/card-mathgame.svg" alt="MathGame — math-gated creature battler" width="400"></a>
-  <a href="https://github.com/Razer256g4/peter-mcgee-website"><img src="assets/card-petermcgee.svg" alt="Peter McGee — art portfolio + CMS" width="400"></a>
+  <a href="https://www.petermcgeepaintings.online"><img src="assets/card-petermcgee.svg" alt="Peter McGee — art portfolio + CMS" width="400"></a>
 </p>
 
 <br>
